@@ -1,3 +1,4 @@
+#Create an employee class by definig employee attribute such as name and salary as an instance variable and implementing behaviour using work() and show() instances methods . make salary as private variable
 class Employee:
     def __init__(self, name, salary):
         self.name = name
